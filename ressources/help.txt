@@ -1,0 +1,30 @@
+INTRODUCTION : 
+
+2048 est un jeu vidéo de type puzzle conçu en mars 2014 par le développeur indépendant italien Gabriele Cirulli et publié en ligne sous licence libre via Github le 9 mars 2014.
+
+Le but du jeu est de faire glisser des tuiles sur une grille, pour combiner les tuiles de mêmes valeurs et créer ainsi une tuile portant le nombre 2048. Le joueur peut toutefois continuer à jouer après cet objectif atteint pour faire le meilleur score possible.
+
+Publié initialement sous licence MIT, sans prétention commerciale ou médiatique, le jeu a fait l'objet d'un fort intérêt. Le caractère particulièrement addictif de 2048, en plus d'être gratuit, lui attitrant une notoriété immédiate. Le concept du jeu est alors copié de nombreuses fois et notamment porté en application mobile.
+
+Le jeu est souvent comparé à Threes!, dont l'interface et le système de jeu sont similaires et est sorti quelques mois auparavant. Cirulli atteste s'être inspiré d'un jeu mobile, 1024 de Veewo Studio, dont le développeur s'est lui-même inspiré de Threes! d'Asher Vollmer. 
+
+
+INTERFACE : 
+
+2048 se joue sur une grille de 4 × 4 cases, avec des tuiles de couleurs et de valeurs variées (mais toujours des puissances de deux) qui peuvent être déplacées avec une animation par scrolling quand le joueur appuie sur les touches fléchées de son clavier (ou avec la fonction tactile sur tablettes et smartphones). Pour les valeurs les plus élevées, les tuiles luisent légèrement après la fusion des deux tuiles précédentes et changent de couleur.
+
+2048 est une variante informatique du taquin, très similaire à l'application Threes!, sortie en février 2014. 
+
+
+JOUABILITÈ :
+
+Le gameplay du jeu repose sur l'utilisation des touches fléchées du clavier (ou de la fonction tactile sur tablettes et smartphones) pour déplacer les tuiles vers la gauche, la droite, le haut ou le bas. Lors d'un mouvement, l'ensemble des tuiles du plateau sont déplacés dans la même direction jusqu'à rencontrer les bords du plateau ou une autre tuile sur leur chemin. Si deux tuiles, ayant le même nombre, entrent en collision durant le mouvement, elles fusionnent en une nouvelle tuile de valeur double (par ex. : deux tuiles de valeur « 2 » donnent une tuile de valeur « 4 »). À chaque mouvement, une tuile portant un 2 ou un 4 apparaît dans une case vide de manière aléatoire.
+
+Le jeu, simple au début, se complexifie de plus en plus, du fait du manque de place pour faire bouger les tuiles, et des erreurs de manipulation possibles, pouvant entraîner un blocage des tuiles et donc la fin du jeu à plus ou moins long terme, selon l’habileté du joueur. Pourtant, et bien que très chronophage, 2048 possède la particularité de ne jamais rendre l'échec frustrant, au contraire : le fait de recommencer pour tenter une nouvelle stratégie fait partie du plaisir.
+
+La partie est gagnée lorsqu'une tuile portant la valeur « 2048 » apparaît sur la grille, d'où le nom du jeu. On peut néanmoins continuer à jouer avec des tuiles de valeurs plus élevées (4 096, 8 192, etc.). La tuile maximum pouvant être atteinte est, en théorie, « 131 072 »(ou 2) ; le score maximal possible est 3 932 15 ; le nombre maximum de déplacements est 131 0386. Quand le joueur n'a plus de mouvement légaux (plus d'espaces vides ou de tuiles adjacentes avec la même valeur), le jeu se termine. 
+
+
+ASTUCES :
+
+Le caractère particulièrement addictif du jeu ainsi que le faible taux de victoires — estimé à seulement 1 % des parties jouées — ont conduit à l'apparition d'un grand nombre d'astuces sur Internet et notamment sur YouTube. Parmi elles, celle du créateur du jeu consiste à « utiliser seulement trois directions à la fois, et essayer d'isoler la case avec le nombre le plus grand dans un des angles du carré ». Pour cela, il est notamment conseillé de remplir la colonne où apparaît la plus grande valeur avec des nombres croissants du haut vers le bas, d'attendre jusqu'à deux tours pour additionner deux carrés identiques ou encore de faire en sorte que le contour de la grille reste vide. 
